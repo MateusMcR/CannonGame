@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cannon Game</string>
+    <string name="win">Você Venceu!</string>
+    <string name="lose">Game Over!</string>
+    <string name="shots_fired">Tiros disparados: %1$d</string>
+    <string name="total_time">Tempo total: %1$.2f segundos</string>
+    <string name="reset_game">Novo Jogo</string>
+    <string name="results">Resultados</string>
+</resources>
